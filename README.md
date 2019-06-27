@@ -1,6 +1,6 @@
 # supplejack-client
 
-# a fork of @https://github.com/revanar's awesome SJ client
+### A fork of [revanvar's](https://github.com/revanar/supplejack-client) awesome SJ client
 
 
 This README outlines the details of collaborating on this Ember application.
